@@ -21,8 +21,8 @@ module.exports.handleEvent = async function ({ api, event }) {
   const msg = body.toLowerCase().trim();
 
   const responses = {
-    "miss you": "অরেক বেডারে Miss না করে xan মেয়ে হলে বস সাহু রে হাঙ্গা করো😶👻😘",
-    "miss u too": "হুম আমি ও তোমাকে Miss করি... কিন্তু সাহু বস বেশি করে 😏💖",
+    "miss you": "অরেক bedi re Miss না করে xan chele হলে ম্যাডাম samu রে হাঙ্গা করো😶👻😘",
+    "miss u too": "হুম আমি ও তোমাকে Miss করি😏💖",
     "kiss de": "কিস দিস না তোর মুখে দূর গন্ধ কয়দিন ধরে দাঁত ব্রাশ করিস নাই🤬",
     "👍": "সর এখান থেকে লাইকার আবাল..!🐸🤣👍⛏️",
     "hi": "এত হাই-হ্যালো কর ক্যান প্রিও..!😜🫵",
@@ -45,7 +45,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "by": "কিরে তুই কই যাস কোন মেয়ের সাথে চিপায় যাবি..!🌚🌶️",
     "ami shahadat": "হ্যা বস কেমন আছেন..?☺️",
     "bot er baccha": "আমার বাচ্চা তো তোমার গার্লফ্রেন্ডের পেটে..!!🌚⛏️",
-    "tor nam ki": "MY NAME IS ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭💖",
+    "tor nam ki": "MY NAME IS ─꯭─⃝‌‌𝐒amu 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭💖",
     "pic de": "এন থেকে সর দুরে গিয়া মর😒",
     "cudi": "এত চোদা চুদি করস কেনো..!🥱🌝🌚",
     "bal": "রাগ করে না সোনা পাখি 🥰",
